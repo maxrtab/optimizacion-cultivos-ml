@@ -16,15 +16,15 @@ El objetivo de este proyecto es determinar la variable edafoclimática del suelo
   <img src="https://img.shields.io/badge/APRENDIZAJE_SUPERVISADO-f4ebe1?style=flat&logoColor=000000" alt="Supervisado" />
 </p>
 
-### Preguntas clave
----
+## Preguntas clave
+
 1. ¿Cuál es la distribución y balanceo de las categorías de cultivos en el conjunto de datos?
 2. De las cuatro variables del suelo ($N$, $P$, $K$, $ph$), ¿cuál posee el mayor poder predictivo univariado para clasificar los cultivos?
 3. ¿Qué métrica de evaluación refleja de mejor manera el rendimiento de un modelo multiclase balanceado?
 
 
-### Metodología
----
+## Metodología
+
 * **Análisis Exploratorio de Datos (EDA):** Verificación de ausencia de valores nulos en los 2,200 registros y confirmación de un balance de clases perfecto (100 observaciones por cada uno de los 22 cultivos).
 * **División del conjunto de datos:** Separación en conjuntos de entrenamiento (80%) y prueba (20%) con `random_state = 42` para asegurar la reproducibilidad de los resultados.
 * **Modelado univariado:** Entrenamiento de cuatro modelos independientes de `LogisticRegression` (algoritmo multinomial, `max_iter = 200`), uno por cada característica química/física del suelo.
@@ -32,8 +32,7 @@ El objetivo de este proyecto es determinar la variable edafoclimática del suelo
 
 
 
-### Conclusiones y recomendaciones
----
+## Conclusiones y recomendaciones
 
 #### Rendimiento univariado de características:
 * **Capacidad predictiva por variable:** La evaluación del $F_1$-score ponderado identificó diferencias significativas en el impacto de cada parámetro del suelo:
@@ -49,8 +48,7 @@ El objetivo de este proyecto es determinar la variable edafoclimática del suelo
 
 
 
-### Diccionario de datos
----
+## Diccionario de datos
 El conjunto de datos `soil_measures.csv` contiene **2,200 observaciones** de propiedades del suelo y los cultivos correspondientes:
 
 * **N:** Contenido de Nitrógeno en el suelo (ratio).
