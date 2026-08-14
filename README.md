@@ -7,16 +7,19 @@ El objetivo de este proyecto es determinar la variable edafoclimática del suelo
 ### Herramientas y tipo de proyecto
 ### Herramientas y tipo de proyecto
 
+### Herramientas y tipo de proyecto
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-f4ebe1?style=for-the-badge&logo=python&logoColor=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/PANDAS-f4ebe1?style=for-the-badge&logo=pandas&logoColor=000000" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-f4ebe1?style=for-the-badge&logo=scikit-learn&logoColor=000000" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/LOGISTIC_REGRESSION-f4ebe1?style=for-the-badge&logoColor=000000" alt="Logistic Regression" />
-  <img src="https://img.shields.io/badge/ANÁLISIS_EXPLORATORIO-f4ebe1?style=for-the-badge&logoColor=000000" alt="EDA" />
-  <img src="https://img.shields.io/badge/EVALUACIÓN_DE_FEATURES-f4ebe1?style=for-the-badge&logoColor=000000" alt="Features" />
-  <img src="https://img.shields.io/badge/MODELADO_PREDICTIVO-f4ebe1?style=for-the-badge&logoColor=000000" alt="Modelado" />
-  <img src="https://img.shields.io/badge/APRENDIZAJE_SUPERVISADO-f4ebe1?style=for-the-badge&logoColor=000000" alt="Supervisado" />
+  <img src="https://img.shields.io/badge/PYTHON-f4ebe1?style=flat&logo=python&logoColor=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/PANDAS-f4ebe1?style=flat&logo=pandas&logoColor=000000" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-f4ebe1?style=flat&logo=scikit-learn&logoColor=000000" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/LOGISTIC_REGRESSION-f4ebe1?style=flat&logoColor=000000" alt="Logistic Regression" />
+  <img src="https://img.shields.io/badge/ANÁLISIS_EXPLORATORIO-f4ebe1?style=flat&logoColor=000000" alt="EDA" />
+  <img src="https://img.shields.io/badge/EVALUACIÓN_DE_FEATURES-f4ebe1?style=flat&logoColor=000000" alt="Features" />
+  <img src="https://img.shields.io/badge/MODELADO_PREDICTIVO-f4ebe1?style=flat&logoColor=000000" alt="Modelado" />
+  <img src="https://img.shields.io/badge/APRENDIZAJE_SUPERVISADO-f4ebe1?style=flat&logoColor=000000" alt="Supervisado" />
 </p>
+
 ---
 
 ### Preguntas clave
