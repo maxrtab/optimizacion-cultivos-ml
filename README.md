@@ -2,7 +2,7 @@
 
 El objetivo de este proyecto es determinar la variable edafoclimática del suelo con mayor capacidad predictiva individual para clasificar **22 tipos de cultivo** mediante **Regresión Logística multiclase**. El estudio busca ayudar a los agricultores a tomar decisiones informadas sobre la selección de cultivos cuando cuentan con recursos o presupuestos limitados para análisis de laboratorio.
 
----
+
 ### Herramientas y tipo de proyecto
 
 <p align="left">
